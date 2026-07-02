@@ -7,6 +7,7 @@ article_planner
 -> article_writer
 -> article_visual_director
 -> air_reader_qa
+-> humor_tough_reader
 -> article_distribution_compliance
 -> article_editor_in_chief
 ```
@@ -23,6 +24,7 @@ draft1
 draft2
 visual_ready
 qa_review
+humor_review
 editor_gate
 revise
 human_review
@@ -43,7 +45,9 @@ human_review
 reject
 ```
 
-`autopublish` is allowed only for low-risk fictional or daily-life articles that pass QA and compliance.
+`autopublish` is allowed only for low-risk fictional or daily-life articles that pass QA, tough humor review, and compliance.
+
+It requires `humor_tough_reader` to return `decision = pass` with `humor_score >= 80`.
 
 ## Recommended First Week
 

@@ -13,10 +13,10 @@ const featured = articles[0];
   <section class="hero">
     <div>
       <span class="section-kicker">YOKEI LAB</span>
-      <h1>生活の横道に、調査票を出す。</h1>
+      <h1>どうでもいいことを、全力でためす。</h1>
       <p>
-        レシート、靴下、閉ボタン、空白時間。
-        だいたい誰も困っていないものを、編集部が勝手に集まり、勝手に測り、勝手に議事録へします。
+        よけいラボは、ふつうなら三秒で忘れる疑問を、ちゃんと集まってやってみる編集部です。
+        小さなことを大げさにして、最後に少しだけ役に立たない答えを出します。
       </p>
       {featured && (
         <ul class="tag-list" aria-label="Featured tags">
@@ -33,7 +33,7 @@ const featured = articles[0];
 
   <section aria-labelledby="latest">
     <span class="section-kicker">REPORTS</span>
-    <h2 id="latest">最近の調査</h2>
+    <h2 id="latest">最近やってみたこと</h2>
     <div class="article-grid">
       {articles.map((article) => (
         <article class="article-card">

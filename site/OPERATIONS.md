@@ -16,15 +16,16 @@ Do not move an article into `src/content/articles/` until it has passed the edit
 
 1. Run the content pipeline from the parent workspace.
 2. Keep drafts and review output under `../runs/`.
-3. Generate and inspect image assets.
-4. Promote only the final article into `src/content/articles/`.
-5. Run:
+3. Run `humor_tough_reader` after QA. If it does not return `pass`, revise the draft before compliance or publishing.
+4. Generate and inspect image assets.
+5. Promote only the final article into `src/content/articles/`.
+6. Run:
 
 ```powershell
 npm run build
 ```
 
-6. Commit/push the site changes. GitHub Actions deploys the static build to GitHub Pages.
+7. Commit/push the site changes. GitHub Actions deploys the static build to GitHub Pages.
 
 ## Article Frontmatter
 

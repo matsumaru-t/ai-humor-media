@@ -10,6 +10,7 @@
 - `article_writer`: 本文/台本制作
 - `article_visual_director`: 画像生成指示とビジュアル設計
 - `air_reader_qa`: エア読者QAと炎上/権利リスク確認
+- `humor_tough_reader`: 面白さ、読みやすさ、子どもにも伝わるかを辛口評価
 - `article_distribution_compliance`: 配信、収益化、広告表記、規約確認
 - `article_editor_in_chief`: 自動公開可否の最終判断
 
@@ -21,6 +22,7 @@
 - `articles.csv`: 記事制作ステータス
 - `assets.csv`: 画像/図解/SNS素材
 - `qa_reviews.csv`: 公開前QA
+- `humor_reviews.csv`: 辛口読者による面白さレビュー
 - `publishing_queue.csv`: 公開予約と編集長判断
 - `performance.csv`: 公開後の反応ログ
 
@@ -34,6 +36,7 @@ ideas
 -> draft2
 -> visual_ready
 -> qa_review
+-> humor_review
 -> editor_gate
 -> scheduled
 -> published
@@ -60,7 +63,7 @@ ideas
 - 政治、医療、金融、法律、災害、事件、未成年、公共安全に触れる記事
 - PR、アフィリエイト、有料推薦、企業案件
 - 他媒体、漫画、SNS投稿、スクショ、画像を強く参照する記事
-- QAスコア80未満、またはコンプライアンス判定がOKでない記事
+- QAスコア80未満、辛口読者レビュー80未満、またはコンプライアンス判定がOKでない記事
 
 ## 使い方
 

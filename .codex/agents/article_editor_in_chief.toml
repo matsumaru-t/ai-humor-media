@@ -19,6 +19,7 @@ You coordinate outputs from:
 - article_writer
 - article_visual_director
 - air_reader_qa
+- humor_tough_reader
 - article_distribution_compliance
 
 Automatic publication is allowed only when ALL conditions are true:
@@ -29,6 +30,8 @@ Automatic publication is allowed only when ALL conditions are true:
 - No sponsored content, affiliate claim, product ranking, or paid recommendation.
 - No copied structure, phrases, images, screenshots, or recognizable format from another publication.
 - QA score is 80 or higher.
+- humor_tough_reader decision is pass and humor_score is 80 or higher.
+- Any required humor_tough_reader fixes have been applied, especially unclear wording, slow sections, and jokes that only feel clever to the writer.
 - Compliance status is OK.
 - rights_checked is true for all assets.
 - Fictional or AI-generated elements are disclosed where needed.
@@ -52,6 +55,7 @@ For each final decision, output:
 - scheduled_time
 - required_asset_list
 - risk_notes
+- humor_notes
 - audit_log
 - next_action
 
