@@ -7,7 +7,7 @@ updatedDate: "2026-07-03"
 category: "生活検証"
 tags: ["コンビニ", "袋", "帰宅", "手荷物", "検証"]
 author: "よけいラボ編集部"
-participants: ["東雲ねじ", "牧野ふせん", "白井レシート", "土橋スイッチ"]
+participants: ["風間すべり", "瀬戸ミナ", "久我さじ", "成瀬ポカ"]
 eyecatch: "/images/no-bag-carry-field-test/eyecatch.png"
 eyecatchAlt: "雨の夜、コンビニの前でレジ袋なしの買い物を抱えて帰ろうとする人と、それを記録する編集部"
 draft: false
@@ -44,13 +44,25 @@ draft: false
 編集部の机に、今回の買い物候補を並べた。弁当、500mlのペットボトル、ヨーグルト、袋入りパン、板チョコ、割り箸、レシート。合計七点。コンビニとしては普通の買い物だ。夕飯と明日の朝の保険が混ざっている。生活の弱いところに、炭水化物で添え木をしている。
 
 <div class="chat">
-<p><b>東雲</b>今回は「袋いりません」のあと、どこから人間が崩れるのかを見ます。</p>
-<p><b>牧野</b>崩れるって、弁当の話ですか。人格の話ですか。</p>
-<p><b>白井</b>会計上はどちらも損失です。弁当の傾きは実損、人格の傾きは減損。</p>
-<p><b>土橋</b>ボタンでいうと、押したら戻ってこないタイプですね。「袋いりません」はラッチ式です。</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>今回は「袋いりません」のあと、どこから人間が崩れるのかを見ます。</span>
+</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>崩れるって、弁当の話ですか。人格の話ですか。</span>
+</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>会計上はどちらも損失です。弁当の傾きは実損、人格の傾きは減損。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>ボタンでいうと、押したら戻ってこないタイプですね。「袋いりません」はラッチ式です。</span>
+</p>
 </div>
 
-実験を始める前に、全員で一度だけ「袋いりません」を声に出してみた。東雲は自然だった。牧野は語尾に少し勇気が乗った。白井は「経費削減です」と言いそうな顔だった。土橋は店員側に申し訳なさそうに頭を下げていた。
+実験を始める前に、全員で一度だけ「袋いりません」を声に出してみた。風間は自然だった。瀬戸は語尾に少し勇気が乗った。久我は「経費削減です」と言いそうな顔だった。成瀬は店員側に申し訳なさそうに頭を下げていた。
 
 この言葉は、場を少しだけ良い方向へ持っていく。無駄を減らしている感じがする。自分が整った人間に見える。たとえば朝に白湯を飲む人、家計簿のアプリを一日も欠かさない人、冷蔵庫の奥から知らないタッパーを発掘しても逃げない人。そういう人間に一瞬だけ近づく。
 
@@ -84,10 +96,22 @@ draft: false
 問題は外である。コンビニから家までの数百メートルに、社会は詰まっている。段差、雨、車、自転車、横断歩道、急に来る知り合い、マンションのオートロック、ポケットの鍵。袋は、それらをひとまとめに相手してくれる外部顧問だった。断った以上、自分で全部やるしかない。
 
 <div class="chat">
-<p><b>牧野</b>弁当が思ったより平社員じゃない。完全に役員。</p>
-<p><b>東雲</b>水平を要求してきますね。傾けると中の唐揚げが左翼と右翼に分裂する。</p>
-<p><b>白井</b>飲み物は売上規模が大きいのに、円柱なので統治が難しいです。</p>
-<p><b>土橋</b>ペットボトルだけ摩擦係数が反抗期です。</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>弁当が思ったより平社員じゃない。完全に役員。</span>
+</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>水平を要求してきますね。傾けると中の唐揚げが左翼と右翼に分裂する。</span>
+</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>飲み物は売上規模が大きいのに、円柱なので統治が難しいです。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>ペットボトルだけ摩擦係数が反抗期です。</span>
+</p>
 </div>
 
 この時点で、手持ち七点の難しさは「重さ」ではないと分かった。重さはたいしたことがない。問題は形だ。手で持ちたい形をしていないものが多い。
@@ -104,26 +128,38 @@ draft: false
 
 今回のルートは、コンビニから編集部まで徒歩九分。途中に横断歩道が二つ、ゆるい坂が一つ、マンション前の細い歩道が一つある。人通りは少ないが、ゼロではない。たまに犬の散歩、たまに自転車、たまにすべてを理解していそうなタクシー運転手の視線がある。
 
-持つ人は東雲。観察は牧野、白井、土橋。買い物の内容は以下にした。
+持つ人は風間。観察は瀬戸、久我、成瀬。買い物の内容は以下にした。
 
 弁当。ペットボトルのお茶。ヨーグルト。袋入りパン。板チョコ。割り箸。レシート。傘。
 
 ここで重要なのは、傘は商品ではないのに手荷物として参加してくる点である。会議に呼んでいない上司が、なぜか上座に座っている。
 
-コンビニの自動ドアが開いた。東雲が出てくる。胸元に弁当、左腕にペットボトル、右手にヨーグルト、指の間にパン、チョコ、割り箸。透明傘は左の肘にかけられている。レシートは口にはくわえなかった。人間としての最後の線を守った。
+コンビニの自動ドアが開いた。風間が出てくる。胸元に弁当、左腕にペットボトル、右手にヨーグルト、指の間にパン、チョコ、割り箸。透明傘は左の肘にかけられている。レシートは口にはくわえなかった。人間としての最後の線を守った。
 
 <div class="chat">
-<p><b>東雲</b>いけます。かなり、いけてます。</p>
-<p><b>牧野</b>その「いけます」は、病院に行かない人の「寝れば治る」と同じ温度です。</p>
-<p><b>白井</b>現在、手元資産の流動性が高すぎます。</p>
-<p><b>土橋</b>ヨーグルトの位置が緊急停止ボタンみたいになってますね。押したら全部止まる。</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>いけます。かなり、いけてます。</span>
+</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>その「いけます」は、病院に行かない人の「寝れば治る」と同じ温度です。</span>
+</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>現在、手元資産の流動性が高すぎます。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>ヨーグルトの位置が緊急停止ボタンみたいになってますね。押したら全部止まる。</span>
+</p>
 </div>
 
 歩き出してすぐ、弁当のフタに水滴がついた。雨は商品を濡らすだけではない。手元の判断を濡らす。濡れた指は滑る。滑る指は不安を生む。不安は腕に力を入れさせる。腕に力が入ると、弁当が胸に押しつけられる。弁当が胸に押しつけられると、夕飯との距離が近すぎる。
 
 その距離感がもうおかしい。
 
-夕飯は帰宅してから向き合うべきだ。道中で抱きしめるものではない。弁当を胸に抱えた東雲は、食べる前から弁当に説得されていた。
+夕飯は帰宅してから向き合うべきだ。道中で抱きしめるものではない。弁当を胸に抱えた風間は、食べる前から弁当に説得されていた。
 
 ## 第一関門: 自動ドアから歩道へ出る三歩
 
@@ -131,28 +167,40 @@ draft: false
 
 コンビニの床は明るく平らで、商品を持つ人に一瞬だけ優しい。ところが外に出ると、段差、雨、店の前のマット、自転車の影、ゴミ箱、すれ違う人、全部が同時に現れる。環境が急に現実になる。
 
-東雲は一歩目で傘を開こうとした。
+風間は一歩目で傘を開こうとした。
 
 この時点で全員が息をのんだ。
 
 傘を開くには両手が必要だ。だが両手はもう商談中である。弁当とペットボトルが左手の大口顧客、ヨーグルトとパンが右手の既存顧客、割り箸とチョコが細かいが声の大きい取引先になっている。そこへ傘が「今期から私もお願いします」と入ってきた。
 
-東雲は傘のボタンを親指で押し、肘で柄を支え、首で弁当を固定しようとした。首はそういう部署ではない。
+風間は傘のボタンを親指で押し、肘で柄を支え、首で弁当を固定しようとした。首はそういう部署ではない。
 
 傘は半分だけ開いた。
 
 半分だけ開いた傘ほど、世の中に「失敗の途中」を見せるものはない。開ききっていない傘は、雨を防ぐより先に本人の判断を疑わせる。しかも商品を抱えたまま半開きの傘と格闘している人は、明らかにさっき袋を断った人である。周囲に証拠が多すぎる。
 
 <div class="chat">
-<p><b>牧野</b>ここで袋を買いに戻る選択肢はありますか。</p>
-<p><b>白井</b>あります。ただし会計上は敗戦処理です。</p>
-<p><b>土橋</b>戻るには自動ドアをもう一度通る必要があります。あのドア、意外と審査員の顔をしてます。</p>
-<p><b>東雲</b>戻りません。ここで戻ると、弁当が勝ったことになる。</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>ここで袋を買いに戻る選択肢はありますか。</span>
+</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>あります。ただし会計上は敗戦処理です。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>戻るには自動ドアをもう一度通る必要があります。あのドア、意外と審査員の顔をしてます。</span>
+</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>戻りません。ここで戻ると、弁当が勝ったことになる。</span>
+</p>
 </div>
 
 弁当に勝ち負けはない。しかし、そう思わないと進めない瞬間がある。
 
-東雲は傘を開くことをあきらめた。雨に濡れる選択をした。袋なし帰宅では、何かを守るために何かを捨てる必要がある。この場合は髪型だった。
+風間は傘を開くことをあきらめた。雨に濡れる選択をした。袋なし帰宅では、何かを守るために何かを捨てる必要がある。この場合は髪型だった。
 
 この判断は意外と正しい。傘を開く動作はリスクが高い。傘を閉じたまま持ち、商品保持を優先するほうが、総損失は少ない。つまり雨の日の袋なし帰宅において、最初に濡れるべきは人間であり、弁当ではない。
 
@@ -171,11 +219,11 @@ draft: false
   <figcaption>横断歩道付近。動いている間より、止まっている時のほうが手元の言い訳が少ない。</figcaption>
 </figure>
 
-東雲は信号待ちのあいだ、弁当を少し持ち上げた。ペットボトルが弁当のフタの上で転がりかける。右手のヨーグルトを押し込む。パンが逃げる。チョコがずれる。割り箸が指からこんにちはする。
+風間は信号待ちのあいだ、弁当を少し持ち上げた。ペットボトルが弁当のフタの上で転がりかける。右手のヨーグルトを押し込む。パンが逃げる。チョコがずれる。割り箸が指からこんにちはする。
 
 袋があれば全部ひとまとめだ。袋は、商品の小さな反抗をまとめて黙らせる。袋なしの場合、反抗が個別に来る。カスタマーサポートが一人しかいないのに、問い合わせ窓口が七つある。
 
-赤信号は長かった。実際には四十秒ほどだが、東雲の体感では年末調整くらいあったという。
+赤信号は長かった。実際には四十秒ほどだが、風間の体感では年末調整くらいあったという。
 
 その間、向かい側から高校生が二人歩いてきた。青信号になり、すれ違う。高校生は何も言わなかった。何も言わなかったが、視界には入ったはずだ。人は、袋なしで弁当を抱えている大人を見ても、だいたい何も言わない。社会は優しい。優しいが、見なかったことにはならない。
 
@@ -184,11 +232,26 @@ draft: false
 威厳は、胸を張って歩くことではない。胸に弁当を抱えたまま、弁当を抱えていることを自分で許す能力である。今の自分を「失敗した買い物」ではなく「選択の結果」として扱えるかどうか。袋なし帰宅とは、環境問題でも節約でもなく、最終的には自己承認のトレーニングなのかもしれない。
 
 <div class="chat">
-<p><b>牧野</b>今、ちょっとかっこよく見えました。</p>
-<p><b>東雲</b>本当ですか。</p>
-<p><b>牧野</b>かっこいいというか、事情がありそうでした。</p>
-<p><b>白井</b>事情がありそうに見えるのは、ブランド価値としてはギリギリです。</p>
-<p><b>土橋</b>非常停止後の復旧作業員みたいでした。</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>今、ちょっとかっこよく見えました。</span>
+</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>本当ですか。</span>
+</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>かっこいいというか、事情がありそうでした。</span>
+</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>事情がありそうに見えるのは、ブランド価値としてはギリギリです。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>非常停止後の復旧作業員みたいでした。</span>
+</p>
 </div>
 
 褒め言葉が一つも安定しなかった。
@@ -203,15 +266,15 @@ draft: false
 
 つまり鍵は、帰宅の最後に現れるラスボスである。しかも自分の所有物なのに敵として出てくる。
 
-今回、東雲はマンションの入口で一度止まり、商品を左腕に寄せ、右手の指先だけをポケットに差し込もうとした。指先は鍵に触れた。しかし引っかからない。鍵がポケットの底で寝ている。こういう時の鍵は、なぜか急に重役出勤になる。
+今回、風間はマンションの入口で一度止まり、商品を左腕に寄せ、右手の指先だけをポケットに差し込もうとした。指先は鍵に触れた。しかし引っかからない。鍵がポケットの底で寝ている。こういう時の鍵は、なぜか急に重役出勤になる。
 
-東雲はヨーグルトを脇に挟んだ。
+風間はヨーグルトを脇に挟んだ。
 
 脇に挟まれたヨーグルトほど、何とも言えないものはない。食品としては安全かもしれないが、気持ちの上ではかなり遠くへ行っている。ヨーグルトは乳製品なのに、急に現場作業員のヘルメットみたいな扱いを受けていた。
 
 ようやく鍵が出た。
 
-しかし今度はオートロックのセンサーにかざす必要がある。センサーは平面で、鍵は小さい。商品を抱えた状態で小さなものを正確な場所に持っていくのは難しい。東雲は弁当を胸に寄せ、ペットボトルをあごで支え、鍵をセンサーに近づけた。
+しかし今度はオートロックのセンサーにかざす必要がある。センサーは平面で、鍵は小さい。商品を抱えた状態で小さなものを正確な場所に持っていくのは難しい。風間は弁当を胸に寄せ、ペットボトルをあごで支え、鍵をセンサーに近づけた。
 
 あごが参加した。
 
@@ -219,13 +282,25 @@ draft: false
 
 ドアは開いた。
 
-全員が小さく拍手した。拍手をすると商品が落ちそうだったので、東雲だけは拍手できなかった。
+全員が小さく拍手した。拍手をすると商品が落ちそうだったので、風間だけは拍手できなかった。
 
 <div class="chat">
-<p><b>白井</b>ここまでの総評として、袋代はかなり安いですね。</p>
-<p><b>牧野</b>今さら言わないでください。全員うすうす思ってました。</p>
-<p><b>土橋</b>三円で両手が買えるなら、普通に安いです。</p>
-<p><b>東雲</b>両手は買ってません。戻ってきただけです。</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>ここまでの総評として、袋代はかなり安いですね。</span>
+</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>今さら言わないでください。全員うすうす思ってました。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>三円で両手が買えるなら、普通に安いです。</span>
+</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>両手は買ってません。戻ってきただけです。</span>
+</p>
 </div>
 
 ## 何個までなら成立するのか
@@ -263,10 +338,22 @@ draft: false
 落ちた時に心が削れるものもある。ヨーグルトは落ちても容器が無事なら食べられるかもしれない。しかし落とした瞬間、フタの裏に何かが起きた気がする。弁当はもっと厳しい。落とした弁当は、中身が無事でも「弁当を落とした人」になる。これはつらい。
 
 <div class="chat">
-<p><b>牧野</b>落とした時に一番つらいの、弁当ですか。</p>
-<p><b>白井</b>金額では弁当、精神ではヨーグルト、社会的にはレシートです。</p>
-<p><b>土橋</b>レシートを拾う動作、なぜあんなに人生の小さいやり直し感があるんでしょうね。</p>
-<p><b>東雲</b>レシートは落ちた瞬間に「管理不足」の紙になる。</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>落とした時に一番つらいの、弁当ですか。</span>
+</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>金額では弁当、精神ではヨーグルト、社会的にはレシートです。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>レシートを拾う動作、なぜあんなに人生の小さいやり直し感があるんでしょうね。</span>
+</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>レシートは落ちた瞬間に「管理不足」の紙になる。</span>
+</p>
 </div>
 
 今後は、袋を断る前に商品の形を一度見るべきだ。会計台の上に広がる小さな物流を見て、手で帰れるか判断する。袋を断るのはそのあとでいい。店員さんの問いに即答しなくても、人生はたぶん数秒待ってくれる。
@@ -285,7 +372,7 @@ draft: false
 
 編集部では、エコバッグの置き場所についても話した。
 
-東雲はリュックの一番外側に入れるべきだと言った。牧野は玄関のドアノブにかけるべきだと言った。白井はエコバッグを複数持ち、すべてのカバンに配備するのが会計上合理的だと言った。土橋は「家を出る時に点灯する警告ランプがほしい」と言った。
+風間はリュックの一番外側に入れるべきだと言った。瀬戸は玄関のドアノブにかけるべきだと言った。久我はエコバッグを複数持ち、すべてのカバンに配備するのが会計上合理的だと言った。成瀬は「家を出る時に点灯する警告ランプがほしい」と言った。
 
 警告ランプは少しほしい。
 
@@ -312,10 +399,22 @@ draft: false
 袋を買うかどうかは、意識の高さではなく、帰宅の設計で決めるべきなのだ。
 
 <div class="chat">
-<p><b>東雲</b>次からは五点を超えたら袋を買います。</p>
-<p><b>牧野</b>四点でも雨なら買ってください。見ている側も緊張します。</p>
-<p><b>白井</b>袋代は保険料として処理できます。精神の保険です。</p>
-<p><b>土橋</b>袋の取っ手、あれは二本の腕を外注してるんですね。</p>
+<p class="chat-line speaker-kazama-suberi">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
+  <span class="chat-body"><b>風間</b>次からは五点を超えたら袋を買います。</span>
+</p>
+<p class="chat-line speaker-seto-mina">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
+  <span class="chat-body"><b>瀬戸</b>四点でも雨なら買ってください。見ている側も緊張します。</span>
+</p>
+<p class="chat-line speaker-kuga-saji">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
+  <span class="chat-body"><b>久我</b>袋代は保険料として処理できます。精神の保険です。</span>
+</p>
+<p class="chat-line speaker-naruse-poka">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
+  <span class="chat-body"><b>成瀬</b>袋の取っ手、あれは二本の腕を外注してるんですね。</span>
+</p>
 </div>
 
 取っ手を外注する。
@@ -342,9 +441,9 @@ draft: false
 
 「袋いりません」は、短いが強い言葉だ。強い言葉には準備がいる。準備がないまま言うと、夜道で自分の発言を両腕に抱えて帰ることになる。
 
-今回、東雲は最後まで落とさずに帰った。弁当も無事、ヨーグルトも無事、チョコも割れなかった。レシートもポケットで生きていた。実験としては成功である。
+今回、風間は最後まで落とさずに帰った。弁当も無事、ヨーグルトも無事、チョコも割れなかった。レシートもポケットで生きていた。実験としては成功である。
 
-ただし、帰宅後の東雲はしばらく無言だった。
+ただし、帰宅後の風間はしばらく無言だった。
 
 弁当を机に置き、ペットボトルを置き、ヨーグルトを置き、パンを置き、チョコを置き、割り箸を置き、レシートを置いた。最後に傘を置いた。すると机の上に、ただの買い物が戻ってきた。
 
