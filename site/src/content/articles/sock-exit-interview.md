@@ -8,7 +8,7 @@ category: "家庭組織論"
 tags: ["靴下", "洗濯", "面談", "日常", "検証"]
 author: "よけいラボ編集部"
 participants: ["牧野ふせん", "白井レシート", "東雲ねじ"]
-eyecatch: "/images/sock-exit-interview/eyecatch.png"
+eyecatch: "/images/sock-exit-interview/eyecatch.jpg"
 eyecatchAlt: "会議室の椅子に座った片方の靴下と面談しているイラスト"
 draft: false
 ---
