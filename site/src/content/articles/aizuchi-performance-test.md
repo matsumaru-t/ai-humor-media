@@ -8,7 +8,7 @@ category: "会議調査"
 tags: ["会議", "相づち", "仕事", "言葉", "検証"]
 author: "よけいラボ編集部"
 participants: ["東雲ねじ", "牧野ふせん", "白井レシート", "土橋スイッチ"]
-eyecatch: "/images/aizuchi-performance-test/eyecatch.jpg"
+eyecatch: "/images/aizuchi-performance-test/eyecatch.png"
 eyecatchAlt: "会議室でホワイトボードと測定器を使い、相づちの性能を測っているイラスト"
 draft: false
 ---

@@ -8,7 +8,7 @@ category: "生活会計"
 tags: ["レシート", "買い物", "経営資料", "日常", "検証"]
 author: "よけいラボ編集部"
 participants: ["白井レシート", "牧野ふせん", "東雲ねじ"]
-eyecatch: "/images/receipt-annual-report/eyecatch.jpg"
+eyecatch: "/images/receipt-annual-report/eyecatch.png"
 eyecatchAlt: "長いレシートを経営資料のように分析している机上のイラスト"
 draft: false
 ---

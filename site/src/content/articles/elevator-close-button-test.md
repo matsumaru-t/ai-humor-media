@@ -8,7 +8,7 @@ category: "日用品調査"
 tags: ["エレベーター", "ボタン", "日常", "検証", "待ち時間"]
 author: "よけいラボ編集部"
 participants: ["東雲ねじ", "牧野ふせん", "土橋スイッチ"]
-eyecatch: "/images/elevator-close-button-test/eyecatch.jpg"
+eyecatch: "/images/elevator-close-button-test/eyecatch.png"
 eyecatchAlt: "エレベーターの閉ボタンとストップウォッチで待ち時間を測っている様子"
 draft: false
 ---

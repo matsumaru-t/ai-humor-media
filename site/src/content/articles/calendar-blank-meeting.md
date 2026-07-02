@@ -8,7 +8,7 @@ category: "時間調査"
 tags: ["カレンダー", "予定", "会議", "時間", "検証"]
 author: "よけいラボ編集部"
 participants: ["東雲ねじ", "牧野ふせん", "白井レシート"]
-eyecatch: "/images/calendar-blank-meeting/eyecatch.jpg"
+eyecatch: "/images/calendar-blank-meeting/eyecatch.png"
 eyecatchAlt: "カレンダーの空白枠を囲んで会議している机上のイラスト"
 draft: false
 ---
