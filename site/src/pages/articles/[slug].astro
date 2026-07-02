@@ -23,10 +23,15 @@ const { Content } = await render(article);
           {article.data.publishDate.toLocaleDateString('ja-JP')}
         </time>
         {' / '}
-        {article.data.category}
+        {article.data.author}
       </div>
       <h1>{article.data.title}</h1>
       <p class="article-page__description">{article.data.description}</p>
+      {article.data.participants.length > 0 && (
+        <p class="participants">
+          参加: {article.data.participants.join(' / ')}
+        </p>
+      )}
       <ul class="tag-list" aria-label="Article tags">
         {article.data.tags.map((tag) => (
           <li><a class="tag" href={withBase(`/tags/${encodeURIComponent(tag)}/`)}>{tag}</a></li>
@@ -43,9 +48,5 @@ const { Content } = await render(article);
     <div class="prose">
       <Content />
     </div>
-
-    <aside class="note-box">
-      このサイトは、日常の違和感を過剰に真剣な手つきで扱うユーモア記事メディアです。
-    </aside>
   </article>
 </BaseLayout>

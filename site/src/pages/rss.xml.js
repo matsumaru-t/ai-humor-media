@@ -9,8 +9,8 @@ export async function GET(context) {
   const siteUrl = new URL(withBase('/'), context.site).toString();
 
   return rss({
-    title: 'AI Humor Media',
-    description: '真剣にバカなことを検証する、日本語ユーモア記事メディア。',
+    title: 'よけいラボ',
+    description: '生活のすみっこで、余計なことを調べています。',
     site: siteUrl,
     items: articles.map((article) => ({
       title: article.data.title,

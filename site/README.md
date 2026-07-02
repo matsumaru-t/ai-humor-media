@@ -1,6 +1,6 @@
-# AI Humor Media Site
+# よけいラボ Site
 
-Static article media for AI Humor Media.
+Static article media for よけいラボ.
 
 ## Stack
 

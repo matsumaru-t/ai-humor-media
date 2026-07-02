@@ -8,11 +8,11 @@ interface Props {
   image?: string;
 }
 
-const siteName = 'AI Humor Media';
+const siteName = 'よけいラボ';
 const description =
-  Astro.props.description ?? '真剣にバカなことを検証する、日本語ユーモア記事メディア。';
+  Astro.props.description ?? '生活のすみっこで、余計なことを調べています。';
 const title = Astro.props.title ? `${Astro.props.title} | ${siteName}` : siteName;
-const image = Astro.props.image ?? '/images/aizuchi-performance-test/eyecatch.png';
+const image = Astro.props.image ?? '/images/site/editorial-desk.png';
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const imageUrl = new URL(withBase(image), siteUrl).toString();
 const rssUrl = new URL(withBase('/rss.xml'), siteUrl).toString();
@@ -39,14 +39,14 @@ const rssUrl = new URL(withBase('/rss.xml'), siteUrl).toString();
     <div class="site-shell">
       <header class="site-header">
         <div class="site-header__inner">
-          <a class="brand" href={withBase('/')} aria-label="AI Humor Media home">
+          <a class="brand" href={withBase('/')} aria-label="よけいラボ home">
             <span class="brand__mark" aria-hidden="true"></span>
             <span>{siteName}</span>
           </a>
           <nav class="nav" aria-label="Primary">
-            <a href={withBase('/articles/aizuchi-performance-test/')}>最新記事</a>
+            <a href={withBase('/')}>記事</a>
+            <a href={withBase('/about/')}>編集部</a>
             <a href={withBase('/tags/')}>タグ</a>
-            <a href={withBase('/about/')}>運用</a>
             <a href={withBase('/rss.xml')}>RSS</a>
           </nav>
         </div>
@@ -56,8 +56,8 @@ const rssUrl = new URL(withBase('/rss.xml'), siteUrl).toString();
       </main>
       <footer class="site-footer">
         <div class="site-footer__inner">
-          <span>AI Humor Media</span>
-          <span>真面目な顔で、役に立たない検証をします。</span>
+          <span>よけいラボ</span>
+          <span>よく見るものほど、いったん会議にかけます。</span>
         </div>
       </footer>
     </div>

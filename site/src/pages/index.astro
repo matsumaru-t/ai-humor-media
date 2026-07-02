@@ -12,11 +12,11 @@ const featured = articles[0];
 <BaseLayout>
   <section class="hero">
     <div>
-      <span class="section-kicker">SERIOUSLY STUPID</span>
-      <h1>真剣にバカなことを検証する。</h1>
+      <span class="section-kicker">YOKEI LAB</span>
+      <h1>生活の横道に、調査票を出す。</h1>
       <p>
-        会議、言葉、日常の違和感を、必要以上に本気で測ります。
-        役に立つ手前で曲がる日本語ユーモア記事メディアです。
+        レシート、靴下、閉ボタン、空白時間。
+        だいたい誰も困っていないものを、編集部が勝手に集まり、勝手に測り、勝手に議事録へします。
       </p>
       {featured && (
         <ul class="tag-list" aria-label="Featured tags">
@@ -26,16 +26,14 @@ const featured = articles[0];
         </ul>
       )}
     </div>
-    {featured?.data.eyecatch && (
-      <a class="hero__media" href={withBase(`/articles/${featured.data.slug}/`)} aria-label={featured.data.title}>
-        <img src={withBase(featured.data.eyecatch)} alt={featured.data.eyecatchAlt ?? ''} />
-      </a>
-    )}
+    <a class="hero__media" href={withBase('/about/')} aria-label="よけいラボ編集部">
+      <img src={withBase('/images/site/editorial-desk.png')} alt="机を囲んで日用品を調べている編集部" />
+    </a>
   </section>
 
   <section aria-labelledby="latest">
-    <span class="section-kicker">LATEST</span>
-    <h2 id="latest">公開中の記事</h2>
+    <span class="section-kicker">REPORTS</span>
+    <h2 id="latest">最近の調査</h2>
     <div class="article-grid">
       {articles.map((article) => (
         <article class="article-card">
@@ -49,7 +47,7 @@ const featured = articles[0];
                   {article.data.publishDate.toLocaleDateString('ja-JP')}
                 </time>
                 {' / '}
-                {article.data.category}
+                {article.data.author}
               </div>
               <h2>{article.data.title}</h2>
               <p>{article.data.description}</p>

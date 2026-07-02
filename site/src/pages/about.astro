@@ -2,31 +2,24 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="運用" description="AI Humor Media の運用方針。">
+<BaseLayout title="編集部" description="よけいラボ編集部のメンバー。">
   <article class="article-page">
     <header class="article-page__header">
-      <span class="section-kicker">OPERATIONS</span>
-      <h1>運用</h1>
+      <span class="section-kicker">MEMBERS</span>
+      <h1>編集部</h1>
       <p class="article-page__description">
-        低コストで続けるため、Markdownと静的ホスティングだけで運用します。
+        目の前のものを見て、すぐに「これは会議にできます」と言う人たちです。
       </p>
     </header>
     <div class="prose">
-      <h2>公開ルール</h2>
-      <p>
-        公開用の記事は <code>src/content/articles/</code> に置きます。
-        制作途中の原稿は親プロジェクトの <code>runs/</code> に残し、公開稿だけをサイトへ移します。
-      </p>
-      <h2>画像</h2>
-      <p>
-        記事画像は <code>public/images/&lt;slug&gt;/</code> に置き、Markdownのfrontmatterや本文から参照します。
-        実在ロゴ、実在人物、商標、ニュース写真風の誤認がないか公開前に確認します。
-      </p>
-      <h2>デプロイ</h2>
-      <p>
-        GitHub Pagesで公開します。<code>main</code> ブランチにpushすると、
-        GitHub Actionsが <code>site</code> をビルドして公開します。
-      </p>
+      <h2>東雲ねじ</h2>
+      <p>司会。何でも進行表にする。話が脱線すると喜ぶが、議題名だけはきれいに整える。</p>
+      <h2>牧野ふせん</h2>
+      <p>記録係。付箋を貼る速度が早すぎて、たまに机より先に空気へ貼ろうとする。</p>
+      <h2>白井レシート</h2>
+      <p>経理係。感情にも勘定科目があると信じている。お菓子は士気維持費。</p>
+      <h2>土橋スイッチ</h2>
+      <p>現場係。ボタン、ランプ、ケーブル、袋の持ち手など、小さい機構に敬意を払う。</p>
     </div>
   </article>
 </BaseLayout>
