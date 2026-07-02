@@ -1,0 +1,7 @@
+site/node_modules/
+site/dist/
+site/.astro/
+site/.vercel/
+site/.wrangler/
+*.log
+Thumbs.db

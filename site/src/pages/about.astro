@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="運用" description="AI Humor Media の運用方針。">
+  <article class="article-page">
+    <header class="article-page__header">
+      <span class="section-kicker">OPERATIONS</span>
+      <h1>運用</h1>
+      <p class="article-page__description">
+        低コストで続けるため、Markdownと静的ホスティングだけで運用します。
+      </p>
+    </header>
+    <div class="prose">
+      <h2>公開ルール</h2>
+      <p>
+        公開用の記事は <code>src/content/articles/</code> に置きます。
+        制作途中の原稿は親プロジェクトの <code>runs/</code> に残し、公開稿だけをサイトへ移します。
+      </p>
+      <h2>画像</h2>
+      <p>
+        記事画像は <code>public/images/&lt;slug&gt;/</code> に置き、Markdownのfrontmatterや本文から参照します。
+        実在ロゴ、実在人物、商標、ニュース写真風の誤認がないか公開前に確認します。
+      </p>
+      <h2>デプロイ</h2>
+      <p>
+        GitHub Pagesで公開します。<code>main</code> ブランチにpushすると、
+        GitHub Actionsが <code>site</code> をビルドして公開します。
+      </p>
+    </div>
+  </article>
+</BaseLayout>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matsumaru-t.github.io/ai-humor-media/sitemap-index.xml

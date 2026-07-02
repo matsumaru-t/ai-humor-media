@@ -1,0 +1,51 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { withBase } from '../../lib/paths';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  return articles.map((article) => ({
+    params: { slug: article.data.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+---
+
+<BaseLayout title={article.data.title} description={article.data.description} image={article.data.eyecatch}>
+  <article class="article-page">
+    <header class="article-page__header">
+      <div class="article-meta">
+        <time datetime={article.data.publishDate.toISOString()}>
+          {article.data.publishDate.toLocaleDateString('ja-JP')}
+        </time>
+        {' / '}
+        {article.data.category}
+      </div>
+      <h1>{article.data.title}</h1>
+      <p class="article-page__description">{article.data.description}</p>
+      <ul class="tag-list" aria-label="Article tags">
+        {article.data.tags.map((tag) => (
+          <li><a class="tag" href={withBase(`/tags/${encodeURIComponent(tag)}/`)}>{tag}</a></li>
+        ))}
+      </ul>
+    </header>
+
+    {article.data.eyecatch && (
+      <figure class="article-eyecatch">
+        <img src={withBase(article.data.eyecatch)} alt={article.data.eyecatchAlt ?? ''} />
+      </figure>
+    )}
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    <aside class="note-box">
+      このサイトは、日常の違和感を過剰に真剣な手つきで扱うユーモア記事メディアです。
+    </aside>
+  </article>
+</BaseLayout>
