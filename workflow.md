@@ -21,7 +21,8 @@ Current reader priorities:
 - Too much地の文 should be flagged. Prefer conversation-led scenes when the writer characters are present.
 - Ask for more photo-like inserts: prop shots, reaction shots, before/after shots, process shots, and comparison shots.
 - Captions should add a small joke or extra observation, not only describe the image.
-- Strong lines may need bigger text, color, bold emphasis, or repeated `!` to make the page feel fun to read.
+- Strong lines should usually use restrained editorial emphasis: compact pull quotes, dry subheads, small labels, or sharp captions. Avoid giant colorful reaction text, black-bar shouting, and repeated `!` unless there is a specific reason.
+- Use overseas humor media as broad reference for dryness and restraint, e.g. McSweeney's essay-like oddness, ClickHole's headline discipline, Reductress-style satirical framing, or satirical news pages. Do not clone any site's format.
 - Use external humor articles only as broad inspiration for pacing; do not copy a specific site's format, catchphrases, image rhythm, or layout.
 
 ## Status Values
