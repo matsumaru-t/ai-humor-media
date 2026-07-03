@@ -149,7 +149,6 @@ function EyeCatch($article, $path) {
   $arcPen = Pen '#c94935' 12
   $g.DrawArc($arcPen, 1120, 320, 300, 300, 20, 310)
   $g.DrawLine($arcPen, 1410, 512, 1480, 560)
-  DrawText $g 'どうでもいいことを、全力でためす。' 130 860 32 '#6b6861'
   SaveBitmap $bmp $path
   $arcPen.Dispose()
   $g.Dispose()
