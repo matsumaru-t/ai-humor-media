@@ -9,9 +9,8 @@
 - `article_planner`: 企画生成と採点
 - `article_writer`: 本文/台本制作
 - `article_visual_director`: 画像生成指示とビジュアル設計
-- `air_reader_qa`: エア読者QAと炎上/権利リスク確認
+- `air_reader_qa`: エア読者QA、炎上/権利リスク、配信コンプラ確認
 - `humor_tough_reader`: 面白さ、読みやすさ、子どもにも伝わるかを辛口評価
-- `article_distribution_compliance`: 配信、収益化、広告表記、規約確認
 - `article_editor_in_chief`: 自動公開可否の最終判断
 
 ## DBテンプレート
