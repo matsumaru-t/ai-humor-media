@@ -1,7 +1,7 @@
 ---
-title: "家の中のものに授賞式を開いたら、スポンジが泣きそうだった"
+title: "生活用品アワードを真顔で運用したら、スポンジが制度を壊した"
 slug: "household-item-awards"
-description: "スポンジ、輪ゴム、洗濯ばさみ、スプーン、紙袋を本気で表彰したら、家の中の地味な道具たちが急に立派に見えてきました。"
+description: "スポンジ、輪ゴム、洗濯ばさみ、スプーン、紙袋を本気で審査したら、家庭内の授賞制度が少しずつおかしくなっていきました。"
 publishDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "生活検証"
@@ -14,7 +14,9 @@ imageDisclosure: "画像: AI生成の写真風挿絵を含みます。"
 draft: false
 ---
 
-<p class="big-reaction">生活用品アワード、開幕です！！！</p>
+<p class="big-reaction">家庭内表彰委員会、発足。</p>
+
+編集部は、家の中の物に序列を導入できると考えた時点で、もう少し止められるべきだった。
 
 <div class="chat">
 <p class="chat-line speaker-editor">
@@ -27,11 +29,11 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>家の中のえらい物を決める授賞式です。</span>
+  <span class="chat-body"><b>成瀬</b>家の中の道具にも序列があるのでは、という不要な疑問を審査します。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>拍手は4人ぶんしかありませんが、気持ちは大ホールです。</span>
+  <span class="chat-body"><b>久我</b>拍手は4人ぶんしかありませんが、議事録だけは厳格に残します。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
@@ -39,56 +41,56 @@ draft: false
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b><span class="marker">毎日しれっと働いてる生活用品たち</span>です。</span>
+  <span class="chat-body"><b>風間</b><span class="marker">家庭内で職務を遂行している生活用品たち</span>です。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>しれっと、がもう泣ける。名札もないのに働いてる。</span>
+  <span class="chat-body"><b>瀬戸</b>職務って言うと、スポンジが急に社員に見える。</span>
 </p>
 </div>
 
 <div class="chat">
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>ルールは簡単です。家の中の物を机に置いて、見て、ほめます。</span>
+  <span class="chat-body"><b>風間</b>ルールは簡単です。家の中の物を机に置いて、写真を撮って、点をつけます。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>商品名とロゴは出しません。生活用品の実力だけを見ます。</span>
+  <span class="chat-body"><b>久我</b>商品名とロゴは出しません。見た目の良さを実力と呼ばないようにします。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>つまり、スポンジが丸腰で審査される。</span>
+  <span class="chat-body"><b>成瀬</b>候補者には説明の機会がありません。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>丸腰って言うと、急にかわいそう。</span>
+  <span class="chat-body"><b>瀬戸</b>不利すぎる。でも全員しゃべれないから公平か。</span>
 </p>
 </div>
 
 <figure class="article-inline-image">
   <img src="../../images/household-item-awards/nominees.png" alt="机の上にスポンジ、輪ゴム、洗濯ばさみ、スプーン、紙袋が名札付きで並んでいる" />
-  <figcaption>会場入りしたみなさん。呼ばれてないのに全員前のめり。</figcaption>
+  <figcaption>会場入りした候補者。本人確認は見た目で行った。</figcaption>
 </figure>
 
-## ノミネート、入場
+## ノミネートと審査規定
 
 <div class="chat">
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>本日の参加者です。スポンジ、輪ゴム、洗濯ばさみ、スプーン、紙袋。</span>
+  <span class="chat-body"><b>成瀬</b>本日の候補者です。スポンジ、輪ゴム、洗濯ばさみ、スプーン、紙袋。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>実力者が多い。</span>
+  <span class="chat-body"><b>久我</b>物が多いと、会議が立派に見えます。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>待って。いきなり強いメンバーだよ。</span>
+  <span class="chat-body"><b>瀬戸</b>机の上だけで、なんか年末っぽい。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>今日のテーマはただひとつ。誰がいちばんえらいのか。</span>
+  <span class="chat-body"><b>風間</b>今日のテーマはただひとつ。誰を最優秀にするか。なお賞金はありません。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
@@ -103,15 +105,15 @@ draft: false
 <div class="chat">
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>審査は3つです。地味に助かる力、授賞式映え、自分で賞状を持てる力。</span>
+  <span class="chat-body"><b>風間</b>審査は4つです。即戦力、壇上耐性、自力で賞状を持てる力、所有者に罪悪感を発生させる力。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>最後だけ急にせまい。</span>
+  <span class="chat-body"><b>瀬戸</b>最後だけ、家庭の空気が悪い。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>洗濯ばさみを甘やかす項目です。</span>
+  <span class="chat-body"><b>久我</b>洗濯ばさみを甘やかす項目があります。あとスポンジを勝たせそうな項目もあります。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -123,11 +125,11 @@ draft: false
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>むずかしいことは見ません。見た瞬間に「あ、助かってるわ」と思えるかどうかです。</span>
+  <span class="chat-body"><b>風間</b>むずかしいことは見ません。見た瞬間に「これは家庭内インフラだ」と言えるかどうかです。</span>
 </p>
 </div>
 
-<p class="big-reaction big-reaction--green">地味って、ほめ言葉だったのかもしれない。</p>
+<p class="big-reaction big-reaction--green">審査基準を増やした瞬間、生活から遠ざかった。</p>
 
 <div class="chat">
 <p class="chat-line speaker-editor">
@@ -136,7 +138,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>来た！ いつも最後の最後まで小さくなってから引退する人！</span>
+  <span class="chat-body"><b>瀬戸</b>来た。使い終わりのタイミングが、いつも誰にも分からない人。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
@@ -144,7 +146,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>待って、このスポンジ、受賞する顔してる。</span>
+  <span class="chat-body"><b>成瀬</b>待って、このスポンジ、資料写真として強い。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
@@ -152,7 +154,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>引っぱられても、まとめ役をやってる。</span>
+  <span class="chat-body"><b>瀬戸</b>個体識別はむずかしいけど、仕事はしている。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
@@ -164,11 +166,11 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>自分で賞状を持てるタイプです。だいぶ有利。</span>
+  <span class="chat-body"><b>成瀬</b>自分で賞状を持てるタイプです。競技の設計が少し寄っています。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>道具なのに口だけは立派です。</span>
+  <span class="chat-body"><b>久我</b>道具なのに、発言権がありそうな形です。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
@@ -192,13 +194,13 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>紙袋って、立ってるだけでちょっと話を聞いてくれそう。</span>
+  <span class="chat-body"><b>瀬戸</b>紙袋って、立ってるだけで少し会議室っぽい。</span>
 </p>
 </div>
 
-全員えらい。
+ここで全員に賞を出す案が出た。
 
-でも終わらない。
+ただ、それをやると制度が始まる前に終わるので却下された。
 
 ## 一次審査「地味に助かる力」
 
@@ -228,11 +230,11 @@ draft: false
 <div class="photo-pair">
   <figure class="article-inline-image">
     <img src="../../images/household-item-awards/rubber-band.png" alt="輪ゴムが紙袋の口を止め、横に採点表と紙メダルが置かれている" />
-    <figcaption>仕事が早い。会議には出ない。</figcaption>
+    <figcaption>仕事が早い。会議には出ない。個体名もない。</figcaption>
   </figure>
   <figure class="article-inline-image">
     <img src="../../images/household-item-awards/sponge.png" alt="水を吸った黄色いスポンジと、少し濡れた紙メダルが置かれている" />
-    <figcaption>受賞前から泣いている可能性がある。</figcaption>
+    <figcaption>水分を含んだ時点で、記者会見の顔になった。</figcaption>
   </figure>
 </div>
 
@@ -243,7 +245,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>あの子、引っぱられても文句言わないもんね。</span>
+  <span class="chat-body"><b>瀬戸</b>ただし、どれが本人か分からない。輪ゴム一同になりがち。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -251,22 +253,22 @@ draft: false
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>華がない。</span>
+  <span class="chat-body"><b>風間</b>壇上で見失う。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>華はないけど、いないと机が荒れます。</span>
+  <span class="chat-body"><b>久我</b>功労賞向きです。華はないけど、いないと机が荒れます。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>それ、かなりえらい言われ方だ。</span>
+  <span class="chat-body"><b>瀬戸</b>本人が多すぎるのだけ困る。</span>
 </p>
 </div>
 
 <div class="chat">
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>続いてスポンジです。写真を撮ったら、急に様子がおかしくなりました。</span>
+  <span class="chat-body"><b>風間</b>続いてスポンジです。写真を撮ったら、照明との相性がよすぎて審査が荒れました。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
@@ -274,11 +276,11 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>顔はない。でももう、受賞コメントの口だけ見える。</span>
+  <span class="chat-body"><b>成瀬</b>顔はない。でも表面の穴が、全部コメント欄に見える。</span>
 </p>
 </div>
 
-<p class="big-reaction">スポンジ、強い。</p>
+<p class="big-reaction">スポンジだけ、急に記事っぽい。</p>
 
 <div class="chat">
 <p class="chat-line speaker-writer-a">
@@ -291,15 +293,15 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>泣いてない？ いや、気のせいか。気のせいであってほしい。</span>
+  <span class="chat-body"><b>成瀬</b>水を吸っただけで、資料写真として強くなった。ずるい。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>水を吸っただけで、だいぶ物語が出た。</span>
+  <span class="chat-body"><b>風間</b>委員会はこれを「くたびれ方のドラマ」と呼ぶことにしました。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>この子、毎日いるのに、ほめられたことなさそう。</span>
+  <span class="chat-body"><b>瀬戸</b>言葉が長い。もう審査員側が負けてる。</span>
 </p>
 </div>
 
@@ -307,8 +309,21 @@ draft: false
 
 <figure class="article-inline-image">
   <img src="../../images/household-item-awards/score-sheet.png" alt="生活用品の前に空欄の採点表とチェックが並び、手作りメダルが置かれている" />
-  <figcaption>採点表。きれいに見えるけど、ほとんど気持ちで丸をつけています。</figcaption>
+  <figcaption>採点表。公平さより、机の上にある感じを優先した。</figcaption>
 </figure>
+
+今回の暫定審査項目は以下である。
+
+| 項目 | 見るところ |
+| --- | --- |
+| 即戦力 | いないと、その場で困るか |
+| 壇上耐性 | 机の上に置かれても見失わないか |
+| 賞状保持力 | 自力で紙を持てるか |
+| 罪悪感発生力 | 雑に扱ったあと、少し気まずくなるか |
+
+最初から変な表である。
+
+でも表にすると、人はだいたい納得してしまう。
 
 <div class="chat">
 <p class="chat-line speaker-editor">
@@ -341,7 +356,9 @@ draft: false
 
 吸う。
 
-この3つだけで、もう会場の真ん中に置きやすい。
+この3つだけで、壇上耐性は高い。
+
+審査員が先に言葉を失う。
 
 <div class="chat">
 <p class="chat-line speaker-writer-a">
@@ -350,11 +367,11 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>色がもう拍手される気で来てます。</span>
+  <span class="chat-body"><b>成瀬</b>遠くから見つけやすい。会場運営に向いてます。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>黄色にそこまで自信を持たないでほしい。</span>
+  <span class="chat-body"><b>久我</b>それは映えではなく、視認性です。</span>
 </p>
 </div>
 
@@ -365,6 +382,8 @@ draft: false
 そこにあるのに、見失う。
 
 たくさんあるのに、どれが本人かわからない。
+
+委員会はここで、単体部門から束部門へ移した。
 
 <div class="chat">
 <p class="chat-line speaker-editor">
@@ -381,7 +400,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>急に団体競技になった。</span>
+  <span class="chat-body"><b>久我</b>単体部門で審査できないため、束部門に移します。</span>
 </p>
 </div>
 
@@ -395,6 +414,8 @@ draft: false
 
 もう、授賞式側のスタッフである。
 
+候補者でありながら掲示補助も行ったため、公正性に疑義が出た。
+
 <div class="chat">
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -402,11 +423,11 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>それは便利すぎて、逆に休めません。</span>
+  <span class="chat-body"><b>久我</b>候補者兼運営なので、議決権はありません。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>受賞しても働かされるタイプですね。</span>
+  <span class="chat-body"><b>風間</b>有利すぎるので減点します。便利さで。</span>
 </p>
 </div>
 
@@ -443,6 +464,10 @@ draft: false
 
 ただし、今日は中に何もない。
 
+見栄えがよく、内容がない。
+
+会議ではこの二点が長く議論された。
+
 <div class="chat">
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
@@ -458,7 +483,7 @@ draft: false
 </p>
 </div>
 
-<p class="big-reaction">授賞式映え、生活力と関係なさすぎる！！！</p>
+<p class="big-reaction">見た目の点を入れた時点で、審査は少し終わった。</p>
 
 ## 工作が授賞式を本物っぽくしてくる
 
@@ -468,7 +493,7 @@ draft: false
 
 <figure class="article-inline-image">
   <img src="../../images/household-item-awards/crafting.png" alt="机の上で金色の紙から小さな王冠を切り出し、生活用品の横にメダルや名札が並んでいる" />
-  <figcaption>この時点ではまだ誰も優勝していない。なのに王冠だけ先にある。</figcaption>
+  <figcaption>この時点ではまだ誰も優勝していない。制度だけが先に進んでいる。</figcaption>
 </figure>
 
 <p class="small-shock">先に王冠を作ると、会議が逃げられない。</p>
@@ -506,7 +531,7 @@ draft: false
 
 <figure class="article-inline-image">
   <img src="../../images/household-item-awards/clothespin.png" alt="木の洗濯ばさみが小さな賞状を自分で挟んで立っている" />
-  <figcaption>自分の賞状を自分で持てるタイプ。このまま受付も任せたい。</figcaption>
+  <figcaption>候補者兼運営なので、公平性に問題がある。</figcaption>
 </figure>
 
 <div class="chat">
@@ -534,7 +559,7 @@ draft: false
 
 <figure class="article-inline-image">
   <img src="../../images/household-item-awards/name-tags.png" alt="スポンジ、輪ゴム、洗濯ばさみ、スプーン、紙袋に白い名札と小さなメダルが付いて並んでいる" />
-  <figcaption>名札をつけた瞬間、全員が少しだけ立派に見える。少しだけでいい。</figcaption>
+  <figcaption>名札をつけると、物が候補者になり、人間が戻れなくなる。</figcaption>
 </figure>
 
 <div class="chat">
@@ -560,7 +585,7 @@ draft: false
 </p>
 </div>
 
-<p class="big-reaction big-reaction--green">名札をつけたら、もう雑に扱えない。</p>
+<p class="big-reaction big-reaction--green">名札は、家庭内の身分証になる。</p>
 
 ## 受賞コメントの練習をする
 
@@ -570,11 +595,13 @@ draft: false
 
 でも生活用品はしゃべらない。
 
+制度上、コメント欄が空なのは困る。
+
 しゃべらないなら、こちらが勝手に読むしかない。
 
 <figure class="article-inline-image">
   <img src="../../images/household-item-awards/acceptance-speech.png" alt="王冠とメダルを付けたスポンジの前に小さなマイクがあり、周囲の手が拍手している" />
-  <figcaption>受賞コメントの練習。本人は何も言っていないのに、会場だけ仕上がっている。</figcaption>
+  <figcaption>発言していない候補者に、マイクだけがある。</figcaption>
 </figure>
 
 <div class="chat">
@@ -621,7 +648,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>ちょっと泣きそう。スポンジが、泡に。</span>
+  <span class="chat-body"><b>成瀬</b>代理発言が、完全に人間側の願望になってる。</span>
 </p>
 </div>
 
@@ -652,27 +679,27 @@ draft: false
 
 <p class="small-shock">全員分やると、授賞式ではなく朗読会になる。</p>
 
-## 落選者席を作ってはいけない
+## 落選者席が制度を壊す
 
-受賞者を決めるには、受賞しない人も出る。
+賞をひとつにする以上、受賞しない人も出る。
 
-ここで問題が起きた。
+ここで審査委員会が急に弱くなった。
 
-落選者席を作ったら、急にかわいそうになった。
+落選者席は、作った瞬間に人間側の罪悪感を発生させる装置だった。
 
 <figure class="article-inline-image">
   <img src="../../images/household-item-awards/loser-seats.png" alt="スポンジ以外の生活用品が小さな名札とメダルを付けて机に並び、奥にスポンジがぼんやり見える" />
-  <figcaption>落選者席。作った瞬間に、作った側が悪者っぽくなった。</figcaption>
+  <figcaption>落選者席。公正さを出そうとして、机の空気だけが悪くなった。</figcaption>
 </figure>
 
 <div class="chat">
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>ちょっと待って。落選者席、さみしすぎる。</span>
+  <span class="chat-body"><b>瀬戸</b>ちょっと待って。席を分けた瞬間に、悪い会議に見える。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>席を用意しただけで、急にこちらが冷たい人になります。</span>
+  <span class="chat-body"><b>久我</b>制度の顔つきが急に出ました。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -684,13 +711,15 @@ draft: false
 </p>
 </div>
 
-輪ゴムは、落選しても引き出しに帰れば仕事がある。
+落選者にも職務がある。
 
-洗濯ばさみも、ベランダで待たれている。
+輪ゴムは、引き出しに戻るとすぐ行方不明になる。
 
-スプーンは食卓に戻れば、すぐ出番がある。
+洗濯ばさみは、ベランダに戻ると風と対面する。
 
-紙袋は、何かを入れられる日を待っている。
+スプーンは、食卓に戻れば何も言わずにセンターへ行く。
+
+紙袋は、棚の中で「いつか使う」を担当する。
 
 つまり、落選しても全員かなり忙しい。
 
@@ -701,44 +730,40 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>なんかそれ、すごく強い。</span>
+  <span class="chat-body"><b>瀬戸</b>落選なのに、予定が詰まってる。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>落選しても、家の中では現役。</span>
+  <span class="chat-body"><b>成瀬</b>じゃあ「通常業務待機席」に名前を変えましょう。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>いい言葉です。賞状に書くと急に重いです。</span>
+  <span class="chat-body"><b>風間</b>名前を変えただけなのに、少し会議っぽい。</span>
 </p>
 </div>
 
-それでも、落選者席を見ると、少し胸が痛む。
+しかし、名前を変えても席の配置は同じである。
 
-輪ゴムは何本もいるから平気そうに見える。
+輪ゴムは束のまま。
 
-でも一本一本は、きっと別の輪ゴムである。
-
-洗濯ばさみはまっすぐ立っている。
-
-まっすぐ立っているものほど、がまんしているように見える。
+洗濯ばさみはまっすぐ。
 
 スプーンは光っている。
 
-光っているから余計に、何も言わない感じがする。
+紙袋は空っぽなのに、会議室の壁みたいな顔をしている。
 
-紙袋は、ただ立っている。
+審査委員会は、ここで「落選」という言葉を使わないことにした。
 
-立っているだけなのに「また呼んでください」と言っているように見える。
+理由は、生活用品ではなく人間側が耐えられないからである。
 
 <div class="chat">
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>もう全員に何かあげようよ。</span>
+  <span class="chat-body"><b>瀬戸</b>もう全員に何かあげようよ。言葉だけでも。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>大会の意味がなくなります。</span>
+  <span class="chat-body"><b>久我</b>大会の意味がなくなります。かなり早い段階で。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -816,7 +841,7 @@ draft: false
 </p>
 </div>
 
-<p class="big-reaction big-reaction--green">家に戻すと、全員また強い。</p>
+<p class="big-reaction big-reaction--green">家に戻すと、授賞式だけが余計だった。</p>
 
 ## 全員に変な賞を出す
 
@@ -826,7 +851,7 @@ draft: false
 
 なので、最優秀賞とは別に、全員に小さな賞を出すことにした。
 
-こういうことをすると、賞のありがたみは下がる。
+これは表彰制度がだいたい壊れる瞬間である。
 
 でも、こちらの心は少し楽になる。
 
@@ -841,7 +866,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>終わらなくていい。全員えらいから。</span>
+  <span class="chat-body"><b>瀬戸</b>賞状が増えれば、会議が仕事っぽく見える。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -849,15 +874,15 @@ draft: false
 </p>
 </div>
 
-輪ゴムには、<span class="loud">「だいたい何とかしてくれるで賞」</span>。
+輪ゴムには、<span class="loud">「個体識別に失敗しましたで賞」</span>。
 
-洗濯ばさみには、<span class="loud">「自分の役目がはっきりしすぎで賞」</span>。
+洗濯ばさみには、<span class="loud">「候補者兼運営で賞」</span>。
 
-スプーンには、<span class="loud">「静かなセンターで賞」</span>。
+スプーンには、<span class="loud">「いるのが当然すぎて損で賞」</span>。
 
-紙袋には、<span class="loud">「何かありそうで中は空で賞」</span>。
+紙袋には、<span class="loud">「印象だけは良いで賞」</span>。
 
-スポンジには、<span class="loud">「ほめた瞬間にまた汚れ仕事で賞」</span>。
+スポンジには、<span class="loud">「表彰後すぐ職場復帰で賞」</span>。
 
 <div class="chat">
 <p class="chat-line speaker-writer-a">
@@ -874,7 +899,7 @@ draft: false
 </p>
 </div>
 
-<p class="small-shock">特別賞を増やした結果、最優秀賞の重みが行方不明。</p>
+<p class="small-shock">特別賞を増やした結果、最優秀賞の価値が普通のシールくらいになった。</p>
 
 ## 最終討論
 
@@ -885,22 +910,32 @@ draft: false
   <figcaption>会議が一番まじめだった瞬間。内容はスポンジ。</figcaption>
 </figure>
 
+審査委員会は、以下の理由によりスポンジを暫定一位とした。
+
+1. 濡れても職務を継続する。
+2. ほめられても態度が変わらない。
+3. 受賞後も、翌朝から同じ場所にいる。
+
+あまりに強い。
+
+強いというか、逃げ場がない。
+
 <div class="chat">
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>私は輪ゴム推しです。小さいのに、助けに来るのが早い。</span>
+  <span class="chat-body"><b>風間</b>私は輪ゴム推しです。小さいのに、困りごとを止める力が高い。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>でもスポンジは、働いた感じが一番見えるよ。</span>
+  <span class="chat-body"><b>瀬戸</b>でもスポンジは、働いた感じが一番写真に出ている。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>スプーンも強いです。主張しない顔で毎回センターにいます。</span>
+  <span class="chat-body"><b>久我</b>スプーンも強いです。主張しない顔で毎回センターにいます。面白くはないが、そこが怖い。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>私は洗濯ばさみ。自分で賞状を持てるのはでかい。</span>
+  <span class="chat-body"><b>成瀬</b>私は洗濯ばさみ。自分で賞状を持てるのはでかい。制度側に食い込んでる。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
@@ -912,7 +947,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>辞退させないで。立ってるだけでがんばってるから。</span>
+  <span class="chat-body"><b>瀬戸</b>それなら雨の日部門だけ欠席で。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -927,19 +962,19 @@ draft: false
 <div class="chat">
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>新しい項目を足します。<span class="loud">いると安心する感じ</span>です。</span>
+  <span class="chat-body"><b>成瀬</b>新しい項目を足します。<span class="loud">所有者に罪悪感を発生させる力</span>です。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>もう儀式っぽいからやめてください。</span>
+  <span class="chat-body"><b>久我</b>それは審査ではなく、家の反省会です。</span>
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>でもスポンジがいる台所は安心する。</span>
+  <span class="chat-body"><b>瀬戸</b>でもスポンジを雑に置いた日は、ちょっとだけ自分が雑に見える。</span>
 </p>
 <p class="chat-line speaker-editor">
   <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>輪ゴムがある引き出しも安心します。</span>
+  <span class="chat-body"><b>風間</b>輪ゴムを切った時も、少しだけ悪いことをした気になります。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
@@ -947,9 +982,9 @@ draft: false
 </p>
 </div>
 
-<p class="small-shock">全員えらすぎて、採点表が泣いた。</p>
+<p class="small-shock">採点表は公平のために作ったが、最後は写真写りで負けた。</p>
 
-## 準グランプリでもめる
+## 準グランプリを作って制度がゆるむ
 
 最優秀賞はだいたい見えてきた。
 
@@ -959,7 +994,7 @@ draft: false
 
 これは完全によけいな作業だ。
 
-でも、よけいな作業ほど、会議は盛り上がる。
+ただし、よけいな作業ほど議事録が増える。
 
 <div class="chat">
 <p class="chat-line speaker-editor">
@@ -972,7 +1007,7 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>でも準グランプリ、あったほうがみんな帰りやすいよ。</span>
+  <span class="chat-body"><b>瀬戸</b>でも準グランプリ、あったほうが議事録に空欄がなくなるよ。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
@@ -1007,11 +1042,11 @@ draft: false
 </p>
 </div>
 
-<p class="big-reaction">結局、スポンジに戻ってくる。</p>
+<p class="big-reaction">制度はゆるみ、スポンジだけが残った。</p>
 
 ## 受賞者発表
 
-<p class="big-reaction">最優秀・家にいてくれてありがとう賞は……！</p>
+<p class="big-reaction">最優秀・通常業務に戻ってください賞</p>
 
 <div class="chat">
 <p class="chat-line speaker-editor">
@@ -1036,15 +1071,15 @@ draft: false
 </p>
 <p class="chat-line speaker-writer-a">
   <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>やっぱり！ なんかもう、見れば見るほど応援したくなる。</span>
+  <span class="chat-body"><b>瀬戸</b>やっぱり。ここまで来たら、もう別の物にできない。</span>
 </p>
 <p class="chat-line speaker-writer-b">
   <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>記事タイトルとも相性がいい。ずるい勝ち方です。</span>
+  <span class="chat-body"><b>久我</b>写真に写った時点で、審査を曲げました。ずるい勝ち方です。</span>
 </p>
 <p class="chat-line speaker-writer-c">
   <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>会場の空気を持っていったのは、スポンジでした。</span>
+  <span class="chat-body"><b>成瀬</b>委員会の制度を壊したのは、スポンジでした。</span>
 </p>
 </div>
 
@@ -1084,16 +1119,20 @@ draft: false
 </p>
 </div>
 
-明日から、少しだけ生活用品にやさしくなれる気がする。
+授賞後、スポンジは通常業務に戻った。
 
-輪ゴムを切らない。
+王冠は外した。
 
-スプーンを流しに投げない。
+メダルも外した。
 
-スポンジに、えらそうな気持ちで水を吸わせない。
+何も変わっていない。
+
+変わったのは、人間側がスポンジを見ると少し会議を思い出すことだけである。
+
+来年の開催はたぶんない。
+
+項目がもう増えすぎた。
 
 たぶん、明後日には忘れる。
 
-でも今日だけは言える。
-
-<p class="big-reaction big-reaction--green">スポンジ様、ご登壇ありがとうございました！！！</p>
+<p class="big-reaction big-reaction--green">授賞後、スポンジは普通にシンクへ戻った。</p>
