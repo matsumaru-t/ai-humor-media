@@ -15,6 +15,7 @@ const articles = defineCollection({
     participants: z.array(z.string()).default([]),
     eyecatch: z.string().optional(),
     eyecatchAlt: z.string().optional(),
+    imageDisclosure: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });

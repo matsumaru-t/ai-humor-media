@@ -68,8 +68,8 @@ ideas
 
 1. `prompts\daily_pipeline.md` のプロンプトをCodex Automationsに登録します。
 2. DBテンプレートをNotion/Sheets等に取り込みます。
-3. 最初の1週間は自動公開せず、`scheduled` までで止めて品質を確認します。
-4. 問題ない型だけ `article_editor_in_chief` の `autopublish` 判定を許可します。
+3. reader QA、compliance、editor gate が通った低リスク記事は `main` へ反映して公開します。
+4. `human_review` または `revise` 判定の記事だけ `scheduled` / `revise` で止めます。
 
 ## 自前サイト
 

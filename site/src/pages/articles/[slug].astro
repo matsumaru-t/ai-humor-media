@@ -44,6 +44,9 @@ const { Content } = await render(article);
         <img src={withBase(article.data.eyecatch)} alt={article.data.eyecatchAlt ?? ''} />
       </figure>
     )}
+    {article.data.imageDisclosure && (
+      <p class="asset-note">{article.data.imageDisclosure}</p>
+    )}
 
     <div class="prose">
       <Content />

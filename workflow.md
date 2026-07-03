@@ -49,13 +49,11 @@ reject
 
 It requires `article_reader_qa` to return `reader_decision = pass` with `reader_score >= 80`, and `article_compliance` to return `compliance_status = OK`.
 
-## Recommended First Week
+## Publish Lanes
 
-For the first week, do not actually publish automatically.
+Low-risk articles may be published when reader QA, compliance, and the editor gate pass.
 
-Run the pipeline to `scheduled`, inspect the results manually, and only then connect real CMS publishing.
-
-After the system has produced several safe articles, allow autopublish only for these lanes:
+Autopublish or direct publish is allowed only for these lanes:
 
 - fictional product
 - fictional system
