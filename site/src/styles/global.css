@@ -435,6 +435,62 @@ img {
   border-top: 1px solid var(--line);
 }
 
+.prose .photo-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  width: min(100vw - 32px, 980px);
+  margin: 2em 50%;
+  transform: translateX(-50%);
+}
+
+.prose .photo-pair .article-inline-image {
+  width: 100%;
+  margin: 0;
+  transform: none;
+}
+
+.prose .big-reaction {
+  width: min(100vw - 32px, 900px);
+  margin: 1.4em 50%;
+  transform: translateX(-50%);
+  color: var(--accent);
+  font-size: clamp(1.8rem, 7vw, 4.4rem);
+  font-weight: 900;
+  line-height: 1.1;
+  text-align: center;
+  letter-spacing: 0;
+}
+
+.prose .big-reaction--green {
+  color: var(--accent-2);
+}
+
+.prose .small-shock {
+  display: block;
+  width: fit-content;
+  max-width: min(100%, 720px);
+  margin: 1.5em auto;
+  padding: 0.35em 0.75em;
+  color: #fff;
+  background: var(--ink);
+  font-size: clamp(1.05rem, 3vw, 1.6rem);
+  font-weight: 900;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.prose .loud {
+  color: var(--accent);
+  font-weight: 900;
+}
+
+.prose .marker {
+  padding: 0.05em 0.18em;
+  background: linear-gradient(transparent 54%, rgba(230, 184, 62, 0.5) 54%);
+  font-weight: 800;
+}
+
 .prose table {
   width: 100%;
   border-collapse: collapse;
@@ -495,6 +551,10 @@ img {
 }
 
 @media (max-width: 560px) {
+  .prose .photo-pair {
+    grid-template-columns: 1fr;
+  }
+
   .prose .chat p {
     gap: 10px;
     padding: 0.72em;

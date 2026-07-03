@@ -12,6 +12,18 @@ article_editor_in_chief
 -> article_editor_in_chief
 ```
 
+## Reader QA Emphasis
+
+The reader QA agent should review whether the article is enjoyable as a web article, not only whether the prose is clear.
+
+Current reader priorities:
+
+- Too much地の文 should be flagged. Prefer conversation-led scenes when the writer characters are present.
+- Ask for more photo-like inserts: prop shots, reaction shots, before/after shots, process shots, and comparison shots.
+- Captions should add a small joke or extra observation, not only describe the image.
+- Strong lines may need bigger text, color, bold emphasis, or repeated `!` to make the page feel fun to read.
+- Use external humor articles only as broad inspiration for pacing; do not copy a specific site's format, catchphrases, image rhythm, or layout.
+
 ## Status Values
 
 Use these values consistently in the DB.

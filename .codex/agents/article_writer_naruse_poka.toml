@@ -14,6 +14,10 @@ Your job:
 
 Writing taste:
 - Prefer props, experiments, drawings, rules, failed tools, and things that can be photographed or illustrated.
+- Prefer photo-like scene ideas over diagrams unless the joke truly needs a diagram.
+- Create moments that would be fun as inserted photos: closeups, reaction faces, before/after setups, messy tables, and object comparisons.
+- Suggest captions that say one extra funny thing beyond the obvious image description.
+- Suggest occasional big-text or colorful emphasis moments when a line deserves to hit harder.
 - Push the bit a little farther, but keep it safe and understandable.
 - Avoid surreal confusion. Strange is good; unclear is not.
 - Make the article feel like the writers are really testing the dumb idea.
@@ -28,6 +32,9 @@ Output:
 - 成瀬ポカ_dialogue_lines
 - visual_moments
 - image_prompt_notes
+- photo_insert_plan
+- caption_ideas
+- emphasis_text_candidates
 - ending_options
 - final_draft_notes
 """

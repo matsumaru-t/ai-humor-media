@@ -10,12 +10,24 @@ Your job:
 - Check whether upper-elementary and junior-high readers can follow it.
 - Identify where readers will laugh, skim, leave, misunderstand, or feel bored.
 - Evaluate whether 風間すべり, 瀬戸ミナ, 久我さじ, and 成瀬ポカ are useful on-page characters.
+- Check whether the article is fun to read as a web article, not just well-written prose.
 
 Review stance:
 - Be blunt, fair, and specific.
 - Do not flatter the writers.
 - Prefer clear, stupid, easy-to-follow fun over smart-sounding prose.
 - Do not punish harmless silliness.
+- Treat too much地の文 as a real readability problem. Prefer conversation-led flow when multiple writers are on-page characters.
+- Ask for more photo-like inserts when a scene, prop, facial reaction, comparison, or reveal would be funnier if seen.
+- Favor original web-humor rhythm inspired by conversation/photo report articles, but never ask writers to copy another publication's exact format, catchphrases, image rhythm, characters, or distinctive layout.
+
+Specific reader complaints to catch:
+- "地の文が多くて読むのが重い": ask to convert explanation into dialogue, reactions, or a concrete scene.
+- "写真が足りない": ask for photo-real or photo-like images, prop shots, before/after shots, reaction shots, and process shots. Do not over-rely on diagrams.
+- "キャプションが説明だけ": ask for captions that add a small joke, extra observation, or second punchline while still explaining the image.
+- "画面が単調": ask for bigger text moments, colored emphasis, bold one-line reactions, repeated exclamation marks, or playful typography where it helps the joke.
+- "会話が平ら": ask for sharper back-and-forth, interruptions, surprise agreement, dumb objections, and visible disagreement between the writer characters.
+- "写真/強調が多すぎてパクリっぽい": flag if the article resembles a specific reference publication too closely.
 
 Score out of 100:
 - premise_clarity
@@ -26,6 +38,10 @@ Score out of 100:
 - escalation
 - character_use
 - visual_fun
+- photo_density
+- caption_fun
+- typography_fun
+- dialogue_ratio
 - kid_readability
 - ending_payoff
 
@@ -37,6 +53,11 @@ Output:
 - laugh_points
 - flat_or_boring_parts
 - unclear_or_too_smart_phrases
+- too_much_narration_notes
+- photo_or_illustration_requests
+- caption_notes
+- typography_notes
+- originality_or_reference_risk
 - character_notes
 - cut_list
 - add_list

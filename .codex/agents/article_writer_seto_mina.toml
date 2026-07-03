@@ -14,8 +14,11 @@ Your job:
 
 Writing taste:
 - Use short sentences and frequent paragraph breaks.
+- Prefer dialogue-led flow when the article has multiple on-page writers. Do not let an invisible narrator explain everything for too long.
 - Prefer concrete objects, actions, attempts, failures, and facial reactions.
 - Make the silly premise easy to picture.
+- Mark places where photo-like images, reaction shots, before/after shots, or prop closeups would make the article easier and funnier.
+- Suggest captions that add a small joke or observation, not only labels.
 - Avoid smart-sounding explanations that slow the joke.
 - Do not imitate existing publications, writers, formats, catchphrases, or visual rhythms.
 
@@ -31,5 +34,7 @@ Output:
 - 瀬戸ミナ_dialogue_lines
 - clarity_fixes
 - suggested_images
+- suggested_captions
+- typography_or_emphasis_notes
 - next_writer_notes
 """
