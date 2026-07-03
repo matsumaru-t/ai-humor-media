@@ -6,10 +6,10 @@
 
 プロジェクト用エージェント定義は `C:\Users\m-t20\Documents\ai-humor-media\.codex\agents` にあります。
 
-- `article_editor_in_chief`: 企画、編集、最終判断。記事上では「編集長」として登場
-- `article_writer_a`: 導入と読みやすさを作るライター。記事上では「A氏」
-- `article_writer_b`: 疑い、ツッコミ、弱い箇所の修正を担当。記事上では「B氏」
-- `article_writer_c`: とっぴな展開、実験、画像案を足すライター。記事上では「C氏」
+- `article_editor_in_chief`: 企画、編集、最終判断。記事上では「風間すべり」として登場
+- `article_writer_seto_mina`: 導入と読みやすさを作るライター。記事上では「瀬戸ミナ」
+- `article_writer_kuga_saji`: 疑い、ツッコミ、弱い箇所の修正を担当。記事上では「久我さじ」
+- `article_writer_naruse_poka`: とっぴな展開、実験、画像案を足すライター。記事上では「成瀬ポカ」
 - `article_reader_qa`: 辛口読者レビュー。面白さ、読みやすさ、読者反応を見る
 - `article_compliance`: 権利、広告表記、配信規約、公開リスクを見る
 

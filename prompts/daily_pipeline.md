@@ -5,10 +5,10 @@
 ## 手順
 
 1. `article_editor_in_chief` を使って、低リスクな企画を選び、編集方針と記事内の役割を決める。
-2. `article_writer_a` を使って、導入、基本構成、A氏の発言を作る。
-3. `article_writer_b` を使って、疑問、ツッコミ、弱い箇所の修正、B氏の発言を足す。
-4. `article_writer_c` を使って、とっぴな展開、実験案、画像案、C氏の発言を足す。
-5. `article_editor_in_chief` を使って、編集長/A氏/B氏/C氏の議論が記事本文に自然に入るよう統合する。
+2. `article_writer_seto_mina` を使って、導入、基本構成、瀬戸ミナの発言を作る。
+3. `article_writer_kuga_saji` を使って、疑問、ツッコミ、弱い箇所の修正、久我さじの発言を足す。
+4. `article_writer_naruse_poka` を使って、とっぴな展開、実験案、画像案、成瀬ポカの発言を足す。
+5. `article_editor_in_chief` を使って、風間すべり/瀬戸ミナ/久我さじ/成瀬ポカの議論が記事本文に自然に入るよう統合する。
 6. `article_reader_qa` を使って、面白さ、読みやすさ、読者反応を100点満点で辛口レビューする。
 7. `article_reader_qa` が `pass` でない場合は、具体的な修正指示を3人のライターへ戻し、最大2回まで改稿する。
 8. `article_compliance` を使って、権利、広告表記、配信規約、公開リスクを確認する。

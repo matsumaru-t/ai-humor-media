@@ -4,9 +4,9 @@
 
 ```text
 article_editor_in_chief
--> article_writer_a
--> article_writer_b
--> article_writer_c
+-> article_writer_seto_mina
+-> article_writer_kuga_saji
+-> article_writer_naruse_poka
 -> article_reader_qa
 -> article_compliance
 -> article_editor_in_chief
