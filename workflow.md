@@ -3,11 +3,12 @@
 ## Daily Run
 
 ```text
-article_planner
--> article_writer
--> article_visual_director
--> air_reader_qa
--> humor_tough_reader
+article_editor_in_chief
+-> article_writer_a
+-> article_writer_b
+-> article_writer_c
+-> article_reader_qa
+-> article_compliance
 -> article_editor_in_chief
 ```
 
@@ -22,8 +23,8 @@ briefed
 draft1
 draft2
 visual_ready
-qa_review
-humor_review
+reader_review
+compliance_review
 editor_gate
 revise
 human_review
@@ -44,9 +45,9 @@ human_review
 reject
 ```
 
-`autopublish` is allowed only for low-risk fictional or daily-life articles that pass the combined reader QA/compliance review and tough humor review.
+`autopublish` is allowed only for low-risk fictional or daily-life articles that pass reader review and compliance review.
 
-It requires `humor_tough_reader` to return `decision = pass` with `humor_score >= 80`.
+It requires `article_reader_qa` to return `reader_decision = pass` with `reader_score >= 80`, and `article_compliance` to return `compliance_status = OK`.
 
 ## Recommended First Week
 

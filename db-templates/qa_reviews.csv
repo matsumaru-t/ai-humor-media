@@ -1,3 +1,0 @@
-qa_id,article_id,reviewed_at,originality,title_pull,opening_hook,surprise,joke_density,aftertaste,shareability,low_imitation_risk,rights_safety,low_controversy_risk,total_score,decision,funny_parts,boring_parts,imitation_risk,legal_ethics_rights_or_ad_risk,required_fixes,learning_memo
-QA-YYYYMMDD-001,ART-YYYYMMDD-001,,0,0,0,0,0,0,0,0,0,0,0,needs_revision,,,,,,
-QA-20260702-001,ART-20260702-001,2026-07-02,8,8,7,7,7,8,7,8,9,9,78,needs_revision,相づちを社内KPIのように扱う箇所,中盤の候補羅列が長い,低,実在企業名を避ければ低リスク,導入を短くして候補を5個に絞る,架空社内資料風は相性が良い

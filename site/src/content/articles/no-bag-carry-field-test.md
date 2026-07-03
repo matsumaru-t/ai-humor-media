@@ -7,7 +7,7 @@ updatedDate: "2026-07-03"
 category: "生活検証"
 tags: ["コンビニ", "袋", "帰宅", "手荷物", "検証"]
 author: "よけいラボ編集部"
-participants: ["風間すべり", "瀬戸ミナ", "久我さじ", "成瀬ポカ"]
+participants: ["編集長", "A氏", "B氏", "C氏"]
 eyecatch: "/images/no-bag-carry-field-test/eyecatch.png"
 eyecatchAlt: "雨の夜、コンビニの前でレジ袋なしの買い物を抱えて帰ろうとする人と、それを記録する編集部"
 draft: false
@@ -60,6 +60,16 @@ draft: false
 袋を断ったあとの世界は、急にむずかしくなる。
 
 今回はそこを調べる。
+
+調べるのは、編集長と三人のライターだ。
+
+この四人は、記事を書きながら話す。
+
+「そこは面白いのか」
+
+「もっと変なことをしたほうがいいのか」
+
+そういう相談も、そのまま記事に入れてしまう。
 
 人はレジ袋なしで、何個まで手で持って帰れるのか。
 
@@ -114,21 +124,21 @@ draft: false
 買い物というより、全員で帰りたくないクラスの帰りの会である。
 
 <div class="chat">
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>今回は「袋いりません」のあと、どこから人間が困るのかを見ます。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>今回は「袋いりません」のあと、どこから人間が困るのかを見ます。</span>
 </p>
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>困るって、荷物がですか。顔がですか。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>困るって、荷物がですか。顔がですか。</span>
 </p>
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>袋代をけちると、あとで心がへとへとになります。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>袋代をけちると、あとで心がへとへとになります。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>傘がある日は、もう手のボス戦ですね。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>傘がある日は、もう手のボス戦ですね。</span>
 </p>
 </div>
 
@@ -238,21 +248,21 @@ draft: false
 断ったら、自分の手でやるしかない。
 
 <div class="chat">
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>弁当、ただの夕飯なのに態度が大きいですね。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>弁当、ただの夕飯なのに態度が大きいですね。</span>
 </p>
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>持っているというより、弁当を運ばされている感じがあります。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>持っているというより、弁当を運ばされている感じがあります。</span>
 </p>
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>三円の袋が、急に高級な道具に見えてきました。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>三円の袋が、急に高級な道具に見えてきました。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>取っ手ってすごいですね。二本ついているだけで世界がやさしい。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>取っ手ってすごいですね。二本ついているだけで世界がやさしい。</span>
 </p>
 </div>
 
@@ -309,9 +319,9 @@ draft: false
 - オートロック
 - ポケットの中の鍵
 
-持つ人は風間。
+持つ人は編集長。
 
-見守る人は瀬戸、久我、成瀬。
+見守る人はA氏、B氏、C氏。
 
 買ったものは、こうした。
 
@@ -334,7 +344,7 @@ draft: false
 
 コンビニの自動ドアが開いた。
 
-風間が出てきた。
+編集長が出てきた。
 
 胸に弁当。
 
@@ -351,21 +361,21 @@ draft: false
 そこだけは人として守った。
 
 <div class="chat">
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>いけます。かなり、いけます。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>いけます。かなり、いけます。</span>
 </p>
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>その「いけます」は、もう少しで落とす人の声です。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>その「いけます」は、もう少しで落とす人の声です。</span>
 </p>
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>今、手元がごちゃごちゃしすぎて、心もぐちゃっとしています。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>今、手元がごちゃごちゃしすぎて、心もぐちゃっとしています。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>ヨーグルトの位置が赤いボタンみたいです。押したら全部終わりそう。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>ヨーグルトの位置が赤いボタンみたいです。押したら全部終わりそう。</span>
 </p>
 </div>
 
@@ -416,7 +426,7 @@ draft: false
 
 ゴミ箱もある。
 
-そして、風間は一歩目で傘を開こうとした。
+そして、編集長は一歩目で傘を開こうとした。
 
 全員が「それは無理では」と思った。
 
@@ -436,7 +446,7 @@ draft: false
 
 と言っている。
 
-風間は親指でボタンを押した。
+編集長は親指でボタンを押した。
 
 ひじで傘を支えた。
 
@@ -453,21 +463,21 @@ draft: false
 でも「今ちょっと失敗しています」ということだけは、みんなに伝わる。
 
 <div class="chat">
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>ここで袋を買いに戻る道もあります。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>ここで袋を買いに戻る道もあります。</span>
 </p>
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>三円でこの戦いが終わります。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>三円でこの戦いが終わります。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>でも戻るには、自動ドアをもう一回通ります。あれは「ほんとに戻るの？」って顔をしています。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>でも戻るには、自動ドアをもう一回通ります。あれは「ほんとに戻るの？」って顔をしています。</span>
 </p>
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>戻りません。ここで戻ったら、弁当に負けたことになる。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>戻りません。ここで戻ったら、弁当に負けたことになる。</span>
 </p>
 </div>
 
@@ -475,7 +485,7 @@ draft: false
 
 でも、持っている本人にはあるらしい。
 
-風間は傘を開くのをやめた。
+編集長は傘を開くのをやめた。
 
 雨にぬれることにした。
 
@@ -519,7 +529,7 @@ draft: false
 
 赤信号は四十秒くらいだった。
 
-でも風間には、三時間くらいに感じたらしい。
+でも編集長には、三時間くらいに感じたらしい。
 
 向こうから人が歩いてくる。
 
@@ -536,31 +546,31 @@ draft: false
 胸に弁当があるのだから。
 
 <div class="chat">
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>今、少しかっこよく見えました。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>今、少しかっこよく見えました。</span>
 </p>
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>本当ですか。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>本当ですか。</span>
 </p>
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>かっこいいというか、何か事情がありそうでした。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>かっこいいというか、何か事情がありそうでした。</span>
 </p>
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>事情がありそうに見えるのは、ギリギリです。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>事情がありそうに見えるのは、ギリギリです。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>工事中の人みたいでした。自分の体を工事している人。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>工事中の人みたいでした。自分の体を工事している人。</span>
 </p>
 </div>
 
 青になった。
 
-風間は進んだ。
+編集長は進んだ。
 
 弁当は落ちなかった。
 
@@ -594,7 +604,7 @@ draft: false
 
 しかも、こういう時の鍵は、なぜか寝たふりをする。
 
-風間は入口で止まった。
+編集長は入口で止まった。
 
 右手はヨーグルトでいっぱい。
 
@@ -604,7 +614,7 @@ draft: false
 
 つまり、かなり詰んでいる。
 
-風間はヨーグルトを脇にはさんだ。
+編集長はヨーグルトを脇にはさんだ。
 
 ヨーグルトが脇にいる。
 
@@ -626,7 +636,7 @@ draft: false
 
 これがむずかしい。
 
-風間は弁当を胸に寄せた。
+編集長は弁当を胸に寄せた。
 
 お茶をあごで押さえた。
 
@@ -640,26 +650,26 @@ draft: false
 
 全員が小さく拍手した。
 
-風間だけは拍手できなかった。
+編集長だけは拍手できなかった。
 
 拍手したら、たぶん何か落ちる。
 
 <div class="chat">
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>ここまで見た結果、袋代はかなり安いです。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>ここまで見た結果、袋代はかなり安いです。</span>
 </p>
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>今さら言わないでください。全員、途中から思っていました。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>今さら言わないでください。全員、途中から思っていました。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>三円で両手が戻るなら、かなりお得です。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>三円で両手が戻るなら、かなりお得です。</span>
 </p>
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>両手は買っていません。返ってきただけです。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>両手は買っていません。返ってきただけです。</span>
 </p>
 </div>
 
@@ -734,21 +744,21 @@ draft: false
 なぜなら、落とすかどうかより先に、心が先に落ちるからだ。
 
 <div class="chat">
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>落とした時に一番つらいのは、やっぱり弁当ですか。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>落とした時に一番つらいのは、やっぱり弁当ですか。</span>
 </p>
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>金額では弁当です。気持ちではヨーグルトです。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>金額では弁当です。気持ちではヨーグルトです。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>レシートを落として拾う時、なぜあんなに小さく負けた感じがするんでしょう。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>レシートを落として拾う時、なぜあんなに小さく負けた感じがするんでしょう。</span>
 </p>
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>レシートは、落ちた瞬間から「ちゃんとしなさい」と言ってきます。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>レシートは、落ちた瞬間から「ちゃんとしなさい」と言ってきます。</span>
 </p>
 </div>
 
@@ -812,13 +822,13 @@ draft: false
 
 これがエコバッグのむずかしさである。
 
-風間は、リュックのいちばん外側に入れるべきだと言った。
+編集長は、リュックのいちばん外側に入れるべきだと言った。
 
-瀬戸は、玄関のドアノブにかけるべきだと言った。
+A氏は、玄関のドアノブにかけるべきだと言った。
 
-久我は、全部のカバンに一個ずつ入れたいと言った。
+B氏は、全部のカバンに一個ずつ入れたいと言った。
 
-成瀬は、家を出る時に光るランプがほしいと言った。
+C氏は、家を出る時に光るランプがほしいと言った。
 
 ランプは少しほしい。
 
@@ -831,21 +841,21 @@ draft: false
 うるさいけれど、たぶん助かる。
 
 <div class="chat">
-<p class="chat-line speaker-kazama-suberi">
-  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="風間すべり" />
-  <span class="chat-body"><b>風間</b>次からは五点を超えたら袋を買います。</span>
+<p class="chat-line speaker-editor">
+  <img class="chat-avatar" src="../../images/members/kazama-suberi.jpg" alt="編集長" />
+  <span class="chat-body"><b>編集長</b>次からは五点を超えたら袋を買います。</span>
 </p>
-<p class="chat-line speaker-seto-mina">
-  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="瀬戸ミナ" />
-  <span class="chat-body"><b>瀬戸</b>四点でも雨なら買ってください。見ているこっちも力が入ります。</span>
+<p class="chat-line speaker-writer-a">
+  <img class="chat-avatar" src="../../images/members/seto-mina.jpg" alt="A氏" />
+  <span class="chat-body"><b>A氏</b>四点でも雨なら買ってください。見ているこっちも力が入ります。</span>
 </p>
-<p class="chat-line speaker-kuga-saji">
-  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="久我さじ" />
-  <span class="chat-body"><b>久我</b>袋代は保険です。心の保険。</span>
+<p class="chat-line speaker-writer-b">
+  <img class="chat-avatar" src="../../images/members/kuga-saji.jpg" alt="B氏" />
+  <span class="chat-body"><b>B氏</b>袋代は保険です。心の保険。</span>
 </p>
-<p class="chat-line speaker-naruse-poka">
-  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="成瀬ポカ" />
-  <span class="chat-body"><b>成瀬</b>袋の取っ手は、二本のうでをレンタルしている感じですね。</span>
+<p class="chat-line speaker-writer-c">
+  <img class="chat-avatar" src="../../images/members/naruse-poka.jpg" alt="C氏" />
+  <span class="chat-body"><b>C氏</b>袋の取っ手は、二本のうでをレンタルしている感じですね。</span>
 </p>
 </div>
 
@@ -929,7 +939,7 @@ draft: false
 
 帰宅の作戦である。
 
-今回、風間は最後まで落とさずに帰った。
+今回、編集長は最後まで落とさずに帰った。
 
 弁当も無事。
 
@@ -941,7 +951,7 @@ draft: false
 
 実験としては成功である。
 
-ただし、帰ってから風間はしばらく無言だった。
+ただし、帰ってから編集長はしばらく無言だった。
 
 弁当を机に置く。
 
@@ -967,7 +977,7 @@ draft: false
 
 家に着くまで、ただの買い物が小さな冒険になる。
 
-そして次の日、風間はカバンにエコバッグを入れた。
+そして次の日、編集長はカバンにエコバッグを入れた。
 
 たぶん入れた。
 

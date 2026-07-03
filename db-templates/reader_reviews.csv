@@ -1,0 +1,2 @@
+review_id,article_id,reviewed_at,premise_clarity,first_10_seconds,easy_words,paragraph_rhythm,joke_density,escalation,character_use,visual_fun,kid_readability,ending_payoff,reader_score,reader_decision,one_sentence_verdict,likely_reader_reaction,laugh_points,flat_or_boring_parts,unclear_or_too_smart_phrases,character_notes,cut_list,add_list,rewrite_instructions,learning_memo
+RR-YYYYMMDD-001,ART-YYYYMMDD-001,,0,0,0,0,0,0,0,0,0,0,0,revise,,,,,,,,,,

@@ -6,12 +6,12 @@
 
 プロジェクト用エージェント定義は `C:\Users\m-t20\Documents\ai-humor-media\.codex\agents` にあります。
 
-- `article_planner`: 企画生成と採点
-- `article_writer`: 本文/台本制作
-- `article_visual_director`: 画像生成指示とビジュアル設計
-- `air_reader_qa`: エア読者QA、炎上/権利リスク、配信コンプラ確認
-- `humor_tough_reader`: 面白さ、読みやすさ、子どもにも伝わるかを辛口評価
-- `article_editor_in_chief`: 自動公開可否の最終判断
+- `article_editor_in_chief`: 企画、編集、最終判断。記事上では「編集長」として登場
+- `article_writer_a`: 導入と読みやすさを作るライター。記事上では「A氏」
+- `article_writer_b`: 疑い、ツッコミ、弱い箇所の修正を担当。記事上では「B氏」
+- `article_writer_c`: とっぴな展開、実験、画像案を足すライター。記事上では「C氏」
+- `article_reader_qa`: 辛口読者レビュー。面白さ、読みやすさ、読者反応を見る
+- `article_compliance`: 権利、広告表記、配信規約、公開リスクを見る
 
 ## DBテンプレート
 
@@ -20,8 +20,8 @@
 - `ideas.csv`: 企画案と採点
 - `articles.csv`: 記事制作ステータス
 - `assets.csv`: 画像/図解/SNS素材
-- `qa_reviews.csv`: 公開前QA
-- `humor_reviews.csv`: 辛口読者による面白さレビュー
+- `reader_reviews.csv`: 辛口読者による面白さ/読みやすさレビュー
+- `compliance_reviews.csv`: 権利、広告表記、配信リスクレビュー
 - `publishing_queue.csv`: 公開予約と編集長判断
 - `performance.csv`: 公開後の反応ログ
 
@@ -34,8 +34,8 @@ ideas
 -> draft1
 -> draft2
 -> visual_ready
--> qa_review
--> humor_review
+-> reader_review
+-> compliance_review
 -> editor_gate
 -> scheduled
 -> published
@@ -62,7 +62,7 @@ ideas
 - 政治、医療、金融、法律、災害、事件、未成年、公共安全に触れる記事
 - PR、アフィリエイト、有料推薦、企業案件
 - 他媒体、漫画、SNS投稿、スクショ、画像を強く参照する記事
-- QAスコア80未満、辛口読者レビュー80未満、またはコンプライアンス判定がOKでない記事
+- readerスコア80未満、reader判定がpassでない、またはコンプライアンス判定がOKでない記事
 
 ## 使い方
 

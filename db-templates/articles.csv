@@ -1,3 +1,3 @@
-article_id,idea_id,created_at,working_title,final_title,slug,article_type,status,writer_agent_output_path,draft_path,word_count,visual_package_ready,qa_score,humor_score,humor_decision,publish_decision,editor_decision,autopublish_allowed,final_risk_level,human_approved,published_url,scheduled_at,published_at,audit_log
-ART-YYYYMMDD-001,IDEA-YYYYMMDD-001,,,,,,brief,,,0,false,0,0,pending,,pending,false,medium,false,,,,
-ART-20260702-001,IDEA-20260702-001,2026-07-02,会社の会議で一番それっぽく聞こえる相づちを決める,,meeting-aizuchi-ranking,verification,draft1,,,0,false,0,0,pending,,pending,false,low,false,,,,
+article_id,idea_id,created_at,working_title,final_title,slug,article_type,status,writer_agent_output_path,draft_path,word_count,visual_package_ready,reader_score,reader_decision,publish_decision,editor_decision,autopublish_allowed,final_risk_level,human_approved,published_url,scheduled_at,published_at,audit_log
+ART-YYYYMMDD-001,IDEA-YYYYMMDD-001,,,,,,brief,,,0,false,0,pending,,pending,false,medium,false,,,,
+ART-20260702-001,IDEA-20260702-001,2026-07-02,会社の会議で一番それっぽく聞こえる相づちを決める,,meeting-aizuchi-ranking,verification,draft1,,,0,false,0,pending,,pending,false,low,false,,,,

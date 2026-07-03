@@ -16,8 +16,8 @@ Do not move an article into `src/content/articles/` until it has passed the edit
 
 1. Run the content pipeline from the parent workspace.
 2. Keep drafts and review output under `../runs/`.
-3. Run `humor_tough_reader` after the combined reader QA/compliance review. If it does not return `pass`, revise the draft before editor gate or publishing.
-4. Generate and inspect image assets.
+3. Run `article_reader_qa`. If it does not return `pass`, revise the draft with the three writer agents before compliance or publishing.
+4. Run `article_compliance` and inspect image assets.
 5. Promote only the final article into `src/content/articles/`.
 6. Run:
 

@@ -1,0 +1,2 @@
+review_id,article_id,reviewed_at,compliance_status,final_risk_level,rights_checked,asset_rights_check,disclosure_needs,website_title,slug,excerpt,category,tags,publishing_channel_plan,compliance_checklist,required_fixes,audit_notes
+CR-YYYYMMDD-001,ART-YYYYMMDD-001,,needs_revision,medium,false,,,,,,,,,,,

@@ -4,23 +4,23 @@
 
 ## 手順
 
-1. `article_planner` を使って、低リスクな企画を30本出す。
-2. 25点以上の企画から、自動公開レーンに入るものだけ選ぶ。
-3. `article_writer` を使って、1本を8000〜12000字程度の記事にする。短文、多めの改行、やさしい言葉を優先する。
-4. `article_visual_director` を使って、画像パッケージを作る。
-5. `air_reader_qa` を使って、100点満点レビューと配信コンプラ確認をする。
-6. `humor_tough_reader` を使って、面白さと読みやすさを辛口レビューする。
-7. `humor_tough_reader` が `pass` でない場合は、具体的な修正指示を `article_writer` に戻し、最大2回まで改稿する。
-8. `article_editor_in_chief` が最終判定する。
+1. `article_editor_in_chief` を使って、低リスクな企画を選び、編集方針と記事内の役割を決める。
+2. `article_writer_a` を使って、導入、基本構成、A氏の発言を作る。
+3. `article_writer_b` を使って、疑問、ツッコミ、弱い箇所の修正、B氏の発言を足す。
+4. `article_writer_c` を使って、とっぴな展開、実験案、画像案、C氏の発言を足す。
+5. `article_editor_in_chief` を使って、編集長/A氏/B氏/C氏の議論が記事本文に自然に入るよう統合する。
+6. `article_reader_qa` を使って、面白さ、読みやすさ、読者反応を100点満点で辛口レビューする。
+7. `article_reader_qa` が `pass` でない場合は、具体的な修正指示を3人のライターへ戻し、最大2回まで改稿する。
+8. `article_compliance` を使って、権利、広告表記、配信規約、公開リスクを確認する。
+9. `article_editor_in_chief` が最終判定する。
 
 ## 自動公開条件
 
 次の条件をすべて満たす場合のみ、CMSの下書きを公開予約してください。
 
 - `editor_decision = autopublish`
-- `qa_score >= 80`
-- `humor_score >= 80`
-- `humor_tough_reader_decision = pass`
+- `reader_score >= 80`
+- `reader_decision = pass`
 - `compliance_status = OK`
 - `final_risk_level = low`
 - `asset_rights_all_checked = true`
@@ -37,8 +37,8 @@
 - 採用した企画
 - 記事本文
 - 画像パッケージ
-- QA/コンプラレビュー
 - 辛口読者レビュー
+- コンプライアンスレビュー
 - 編集長判定
 - DB更新用CSV行
 - 次回への学習メモ
